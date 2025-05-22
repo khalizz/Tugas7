@@ -9,5 +9,5 @@ kita memilih rasa es krim yang tersedia, dan jika input salah, program akan mele
 2. Jumlah maksimal pesanan
 Exception
 # Program menggunakan dua custom exception:
-- EskrimNotAvailableException: jika rasa yang dimasukkan tidak ada di daftar
-- BatasEskrimException: jika pengguna memesan lebih dari 3 es krim
+- EskrimNotAvailableException: jika pilihan eskrim tidak adad dalam daftar
+- BatasEskrimException: jika memesan lebih dari 3 es krim
